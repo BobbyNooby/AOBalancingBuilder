@@ -597,7 +597,7 @@ const accessoriesData = [
 		legend:
 			'Five orange zircon gemstones embedded in a bronze chain necklace. The gemstones seem to give a decent amount of power.',
 		defense: 0,
-		power: 40,
+		power: 32,
 		agility: 0,
 		attackSize: 0,
 		attackSpeed: 0,
