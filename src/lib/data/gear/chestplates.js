@@ -137,9 +137,9 @@ const chestplatesData = [
 		legend:
 			'A set of bronze armor with an ornate scarlet trim. This armor was specifically made for King Calvus IV.',
 		defense: 0,
-		power: 21,
-		agility: 18,
-		attackSize: 18,
+		power: 25,
+		agility: 12,
+		attackSize: 12,
 		attackSpeed: 0,
 		intensity: 0,
 		insanity: 0,

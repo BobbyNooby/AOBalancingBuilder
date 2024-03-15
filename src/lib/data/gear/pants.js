@@ -137,9 +137,9 @@ const pantsData = [
 		legend:
 			'A pair of dark red metal boots trimmed in bronze. They were specifically made for King Calvus IV.',
 		defense: 0,
-		power: 15,
-		agility: 13,
-		attackSize: 13,
+		power: 18,
+		agility: 9,
+		attackSize: 9,
 		attackSpeed: 0,
 		intensity: 0,
 		insanity: 0,

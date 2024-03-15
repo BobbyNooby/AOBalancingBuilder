@@ -750,9 +750,9 @@ const accessoriesData = [
 		legend:
 			'A crown made out of sun-forged bronze, a technique invented by the Samerians. It was specifically made for King Calvus IV, the Third King of Ravenna, and was stolen from him after he was killed in Ravenna Castello, at the heart of the Ravenna Realm in the Bronze Sea.',
 		defense: 0,
-		power: 15,
-		agility: 13,
-		attackSize: 13,
+		power: 18,
+		agility: 9,
+		attackSize: 9,
 		attackSpeed: 0,
 		intensity: 0,
 		insanity: 0,
