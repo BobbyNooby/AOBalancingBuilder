@@ -380,7 +380,7 @@ const accessoriesData = [
 		power: 0,
 		agility: 0,
 		attackSize: 0,
-		attackSpeed: 45,
+		attackSpeed: 41,
 		intensity: 0,
 		insanity: 0,
 		drawback: 0,
